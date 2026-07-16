@@ -8,11 +8,11 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 - [Email](mailto: nishitaivy@gmail.com)
 
 # Selected Publication
-- Ivy, N., Dhavala, K.K., Kumar, A., & Sandhi, A. (2026). Socioeconomic drivers of willingness to pay for safe water in the arsenic-affected Khagaria district of Bihar, India: A case study. SN Social Sciences, 6, 129. https://doi.org/10.1007/s43545-026-01400-0
-- Ivy, N., & Yadav, M.K. (2026) Assessment of groundwater quality for drinking water wells and associated health risks in Khagaria District, Bihar, India. Water Science, 40(31), 1-21. https://doi.org/10.1007/s44533-026-00031-x
-- Ivy, N. (2025). Arsenic contamination in GBM plains with a focus on Bihar, India: Risks and remediation. Discover Environment, 3, 5. https://doi.org/10.1007/s44274-024-00179-2 
-- Ivy, N., Bhattacharya, S., Dey, S., Gupta, K., Dey, A., & Sharma, P. (2023). Effects of microplastics and arsenic on plants: Interactions, toxicity and environmental implications. Chemosphere, 338, 139542. https://doi.org/10.1016/j.chemosphere.2023.139542
-- Ivy, N., Mukherjee, T., Bhattacharya, S., Ghosh, A., & Sharma, P. (2022). Arsenic contamination in groundwater and food chain with mitigation options in Bengal delta with special reference to Bangladesh. Environmental Geochemistry and Health, 45, 1261–1287.  https://doi.org/10.1007/s10653-022-01330-9 
-- Kumara, R., Ivy, N., Bhattacharyaa, S., Dey, A., & Sharma, P. (2022). Coupled effects of microplastics and heavy metals on plants: Uptake, bioaccumulation, and environmental health perspectives. Science of the Total Environment, 836, 155619. https://doi.org/10.1016/j.scitotenv.2022.155619
-- Ivy, N., Hossain, M. K., & Hossain, M. L. (2015). Effects of industrial effluents on germination and early growth of selected agricultural crops. Journal of Agronomy, 14(1), 4–48. https://doi.org/10.3923/ja.2015.43.48
-- Ivy, N., Uddin, M. M., & Hossain, M. K. (2013). People’s perception on using waste bins in reduce, reuse and recycle (3Rs) process for solid waste management (SWM) in Chittagong, Bangladesh. International Journal of Applied Science, Technology and Engineering Research, 2(3), 30–40. https://doi.org/10.5281/zenodo.19766551
+- Ivy, N., Dhavala, K.K., Kumar, A., & Sandhi, A. (2026). Socioeconomic drivers of willingness to pay for safe water in the arsenic-affected Khagaria district of Bihar, India: A case study. SN Social Sciences, 6, 129.
+- Ivy, N., & Yadav, M.K. (2026). Assessment of groundwater quality for drinking water wells and associated health risks in Khagaria District, Bihar, India. Water Science, 40(31), 1-21.
+- Ivy, N. (2025). Arsenic contamination in GBM plains with a focus on Bihar, India: Risks and remediation. Discover Environment, 3, 5. 
+- Ivy, N., Bhattacharya, S., Dey, S., Gupta, K., Dey, A., & Sharma, P. (2023). Effects of microplastics and arsenic on plants: Interactions, toxicity and environmental implications. Chemosphere, 338, 139542.
+- Ivy, N., Mukherjee, T., Bhattacharya, S., Ghosh, A., & Sharma, P. (2022). Arsenic contamination in groundwater and food chain with mitigation options in Bengal delta with special reference to Bangladesh. Environmental Geochemistry and Health, 45, 1261–1287. 
+- Kumara, R., Ivy, N., Bhattacharyaa, S., Dey, A., & Sharma, P. (2022). Coupled effects of microplastics and heavy metals on plants: Uptake, bioaccumulation, and environmental health perspectives. Science of the Total Environment, 836, 155619.
+- Ivy, N., Hossain, M. K., & Hossain, M. L. (2015). Effects of industrial effluents on germination and early growth of selected agricultural crops. Journal of Agronomy, 14(1), 4–48.
+- Ivy, N., Uddin, M. M., & Hossain, M. K. (2013). People’s perception on using waste bins in reduce, reuse and recycle (3Rs) process for solid waste management (SWM) in Chittagong, Bangladesh. International Journal of Applied Science, Technology and Engineering Research, 2(3), 30–40.
