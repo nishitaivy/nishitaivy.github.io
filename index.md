@@ -3,12 +3,12 @@
 I am an interdisciplinary researcher trained in Environmental Science. I hold a PhD degree from the interdiscilinary School of Ecology and Environment Studies, Nalanda University, India, and a B.Sc. (Hons.) and M.S. degrees in Environmental Science from the University of Chittagong, Bangladesh. I am enthusiastic about learning and teaching environmental data science.
 
 - [Google Scholar](https://share.google/XWAASN85pXX0FxDEy)
-- [ORCid](https://orcid.org/0000-0002-9906-0649)
+- [ORCiD](https://orcid.org/0000-0002-9906-0649)
 - [LinkedIn](https://www.linkedin.com/in/dr-nishita-ivy-764b5852/)
 - [Email](mailto: nishitaivy@gmail.com)
 
 # Selected Publication
-- Ivy, N., Dhavala, K.K., Kumar, A., & Sandhi, A. (2026). Socioeconomic drivers of willingness to pay for safe water in the arsenic-affected Khagaria district of Bihar, India: A case study. SN Social Sciences, 6, 129.
+- Ivy, N., Dhavala, K.K., Kumar, A., & Sandhi, A. (2026). Socioeconomic drivers of willingness to pay for safe water in the arsenic-affected Khagaria district of Bihar, India: A case study. SN Social Sciences, 6, 129. [Link](https://doi.org/10.1007/s43545-026-01400-0)
 - Ivy, N., & Yadav, M.K. (2026). Assessment of groundwater quality for drinking water wells and associated health risks in Khagaria District, Bihar, India. Water Science, 40(31), 1-21.
 - Ivy, N. (2025). Arsenic contamination in GBM plains with a focus on Bihar, India: Risks and remediation. Discover Environment, 3, 5. 
 - Ivy, N., Bhattacharya, S., Dey, S., Gupta, K., Dey, A., & Sharma, P. (2023). Effects of microplastics and arsenic on plants: Interactions, toxicity and environmental implications. Chemosphere, 338, 139542.
