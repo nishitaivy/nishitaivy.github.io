@@ -6,3 +6,6 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 - [ORCiD](https://orcid.org/0000-0002-9906-0649)
 - [LinkedIn](https://www.linkedin.com/in/dr-nishita-ivy-764b5852/)
 - [Email](mailto: nishitaivy@gmail.com)
+
+# Map
+<embed type="text/html" src ="/IMG/cu_map.html" height="650" "width="850">
