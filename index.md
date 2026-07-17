@@ -8,4 +8,4 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 - [Email](mailto: nishitaivy@gmail.com)
 
 # Map
-[University of Colorado Boulder Map](IMG/map.html)
+<iframe src="IMG/cu_map.html" width="850" height="650">/iframe>
