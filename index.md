@@ -1,6 +1,6 @@
 
 # My Background
-I am an interdisciplinary researcher trained in Environmental Science. I hold a PhD degree from the interdiscilinary School of Ecology and Environment Studies, Nalanda University, India, and a B.Sc. (Hons.) and M.S. degrees in Environmental Science from the University of Chittagong, Bangladesh. I am enthusiastic about learning and teaching environmental data science.
+I am an interdisciplinary researcher trained in Environmental Science. I hold a PhD degree from the interdisciplinary School of Ecology and Environment Studies, Nalanda University, India, and a B.Sc. (Hons.) and M.S. degrees in Environmental Science from the University of Chittagong, Bangladesh. I am enthusiastic about learning and teaching environmental data science.
 
 - [Google Scholar](https://share.google/XWAASN85pXX0FxDEy)
 - [ORCiD](https://orcid.org/0000-0002-9906-0649)
@@ -8,4 +8,4 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 - [Email](mailto: nishitaivy@gmail.com)
 
 # Map
-<embed type="text/html" src="cu_map.html" height="550" width="650">
+<embed type="text/html" src="cu_map.html" height="650" width="750">
