@@ -8,4 +8,4 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 - [Email](mailto: nishitaivy@gmail.com)
 
 # Map
-<iframe src="IMG/cu_map.html" width="650" height="550">/iframe>
+<iframe src="cu_map.html" width="650" height="550">/iframe>
