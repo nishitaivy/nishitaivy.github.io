@@ -12,4 +12,4 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 
 # Plot on temperature changes in Boulder
 <div allign="center">
-  <embed type="text/html" src="boulder_plot.html"></div>div>
+  <embed type="text/html" src="boulder_plot.html" height="500" width="850"></div>
