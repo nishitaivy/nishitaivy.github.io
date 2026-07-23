@@ -8,11 +8,9 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 - [Email](mailto: nishitaivy@gmail.com)
 
 # Assignments
-# Interactive Map
 # Map of CU Boulder
-<div style="display:flex;justify-content :center; "><embed type="text/html" src="cu_map.html" height="400" width="850"></div> 
+<embed type="text/html" src="cu_map.html" height="400" width="850">
 
-# Interactive Plot
 # Plot on Temperature Changes in Colorado Boulder
 <div allign="center">
   <embed type="text/html" src="boulder_plot.html" height="500" width="650"></div>
