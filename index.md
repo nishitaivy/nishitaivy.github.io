@@ -9,8 +9,8 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 
 # Assignments
 # Map of CU Boulder
-<embed type="text/html" src="cu_map.html" height="400" width="850">
+<div allign="center"><embed type="text/html" src="cu_map.html" height="400" width="850"></div>
 
 # Plot on Temperature Changes in Colorado Boulder
 <div allign="center">
-  <embed type="text/html" src="boulder_plot.html" height="500" width="650"></div>
+  <embed type="text/html" src="boulder_plot.html" height="300" width="650"></div>
