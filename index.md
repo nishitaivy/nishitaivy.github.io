@@ -10,5 +10,5 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 # Map
 <div style="display:flex;justify-content :center; "><embed type="text/html" src="cu_map.html" height="650" width="850"></div>
 
-# Line graph on temperature
-<div style="display:flex;justify-content :center; "><embed type="text/html" src="boulder_plot.html" height="650" width="850"></div>
+# Plot on temperature changes in Boulder
+<embed type="text/html" src="boulder_plot.html" height="650" width="850">
