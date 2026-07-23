@@ -8,7 +8,7 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 - [Email](mailto: nishitaivy@gmail.com)
 
 # Map
-<div style="display:flex;justify-content :center; "><embed type="text/html" src="cu_map.html" height="650" width="850"></div>
+<div style="display:flex;justify-content :center; "><embed type="text/html" src="cu_map.html" height="750" width="850"></div>
 
 # Plot on temperature changes in Boulder
-<embed type="text/html" src="boulder_plot.html">
+<embed type="text/html" src="boulder_plot.html" height="650" width="850">
