@@ -14,10 +14,10 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 
 # Interactive Plot on Temperature Changes in Colorado Boulder
 <div allign="center">
-  <embed type="text/html" src="boulder_plot.html" height="300" width="400"></div>
+  <embed type="text/html" src="boulder_plot.html" height="300" width="700"></div>
 
 <br><br>
 
 # Interactive Plot on Vegetation Changes
 <div allign="center">
-  <embed type="text/html" src="vegetation_plot.html" height="300" width="400"></div>
+  <embed type="text/html" src="vegetation_plot.html" height="300" width="700"></div>
