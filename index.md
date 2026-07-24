@@ -16,6 +16,8 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 <div allign="center">
   <embed type="text/html" src="boulder_plot.html" height="400" width="650"></div>
 
+<br><br>
+
 # Interactive Plot on Vegetation Changes
 <div allign="center">
   <embed type="text/html" src="vegetation_plot.html" height="400" width="650"></div>
