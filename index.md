@@ -18,6 +18,12 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 
 <br><br>
 
-# Interactive Plot on Vegetation Changes
+# Interactive Map on NDVI Difference in Tubarjal Valley, Saudi Arabia
+<div style="display:flex;justify-content :center; ">
+  <embed type="text/html" src="ndvi_diff.html" height="400" width="850"></div>
+
+<br><br> 
+
+# Interactive Plot on Vegetation Changes in Tubarjal Valley, Saudi Arabia
 <div allign="center">
   <embed type="text/html" src="vegetation_plot.html" height="300" width="700"></div>
