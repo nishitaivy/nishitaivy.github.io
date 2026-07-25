@@ -12,11 +12,11 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 <div style="display:flex;justify-content :center; ">
   <embed type="text/html" src="cu_map.html" height="400" width="850"></div>
 
-<br><br>
-
 # Interactive Map of Chittagong Hill Tracts, Bangladesh
 <div style="display:flex;justify-content :center; ">
-  <embed type="text/html" src="cht_map.html" height="400" width="850"></div>
+  <embed type="text/html" src="cht_map.html" height="700" width="650"></div>
+
+<br><br>
 
 # Interactive Plot on Temperature Changes in Colorado Boulder
 <div allign="center">
