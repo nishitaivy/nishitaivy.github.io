@@ -14,13 +14,19 @@ I am an interdisciplinary researcher trained in Environmental Science. I hold a 
 
 # Interactive Map of Chittagong Hill Tracts, Bangladesh
 <div style="display:flex;justify-content :center; ">
-  <embed type="text/html" src="cht_map.html" height="700" width="650"></div>
+  <embed type="text/html" src="cht_map.html" height="650" width="550"></div>
 
 <br><br>
 
 # Interactive Plot on Temperature Changes in Colorado Boulder
 <div allign="center">
   <embed type="text/html" src="boulder_plot.html" height="300" width="700"></div>
+
+<br><br>
+
+# Interactive Plot on Annaul Average Temperature Changes in Cox's Bazar, Bangladesh
+<div allign="center">
+  <embed type="text/html" src="coxsbazar.html" height="300" width="700"></div>
 
 <br><br>
 
